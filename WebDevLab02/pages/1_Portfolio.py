@@ -48,6 +48,7 @@ def experience_section(experience_data):
     st.header("💼Professional Experience")
     for job_title, (job_description, image) in experience_data.items():
         expander = st.expander(f"{job_title}") 
+        #expander.image(image, width=250) 
         for bullet in job_description:
             expander.write(bullet)
     st.write ("---")
@@ -84,7 +85,7 @@ def activities_section (leadership_data, activity_data):
         st.subheader ("🥇Leadership")
         for title, (details, image) in leadership_data.items():
             expander = st.expander(f"{title}")
-            expander.image(image, width=250) 
+            #expander.image(image, width=250) 
             for bullet in details:
                 expander.write(bullet)
     with tab2:
