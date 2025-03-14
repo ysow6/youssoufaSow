@@ -2,7 +2,7 @@
 #This File will contain the information to be displayed in your portfolio
 
 
-profile_picture = "images/profile.jpeg"
+profile_picture = "images/profile.jpg"
 about_me = "I'm Youssoufa Sow. I am a second year biomedical engineering major at Georgia Tech. I am orginally from Conakry, Guinea, but was raised in Atlanta, Georgia. "
 
 
