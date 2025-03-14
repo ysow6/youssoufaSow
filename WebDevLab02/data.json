@@ -1,0 +1,62 @@
+{
+    "sleep": {
+        "day": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+        ],
+        "hours": [
+            3.6,
+            0.0,
+            0.0,
+            0.0,
+            6.700000000000001,
+            6,
+            7
+        ]
+    },
+    "track times": {
+        "age": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "time": [
+            62.85,
+            57.32,
+            55.0,
+            53.55,
+            51.45,
+            50.9,
+            50.11
+        ]
+    },
+    "workouts": {
+        "day": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+        ],
+        "hours": [
+            0.0,
+            0.0,
+            0.5,
+            1.8,
+            2,
+            0.0,
+            1.5
+        ]
+    }
+}
